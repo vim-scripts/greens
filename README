@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1253
+
+A colorscheme mainly using white, green, red and yellow, with a dark background. I try to make things harmony yet also easy to be discerned, and work in both terminal and GUI. For diff mode, the default colors are kept.
+
+Screenshot:
+http://elephant.linux.net.cn/files/vim_screenshot.png (It is also the screenshot of my vimscript #1238.)
